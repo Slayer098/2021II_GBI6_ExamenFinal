@@ -364,7 +364,7 @@ ggsave("C:\\Users\\Anderson\\Desktop\\Borrador\\2021II_GBI6_ExamenFinal\\results
 ### [1 PUNTO] 2.7. Interprete los resultados de las figuras ```boxplot3.png``` y ```regresion11.pdf```.
 
 ```{tex}
-# Al hacer la garfica de la regresion lineal 
+# Al hacer la grafica de regresion lineal, se compara dos genes y se la aproximacion y relacion que poseen dichos genes en este caso GATA3 Y FN1, por la observacion existe un diferencia significativa. 
 
 ```
 
